@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    scroll-behavior: smooth;
+}
+
+html,body{
+    height: 100%;
+}
+
+
+body{
+    min-height: 100vh;
+    padding: 1rem;
+    line-height: 1.5em;
+    text-align: center;
+}
+
+li{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
